@@ -19,3 +19,5 @@ Repository search was unavailable, so this is not a full tree audit. Token use d
 For a prompt or context change, compare representative tasks with and without the change. Record input/output tokens, latency, cost where applicable, and task quality. Keep the baseline and avoid removing information needed for correctness.
 
 See [CONTENT_REVIEW.md](CONTENT_REVIEW.md) for paths checked and claims removed.
+
+See [SECURITY.md](SECURITY.md) for prompt data and evaluation guidance.
